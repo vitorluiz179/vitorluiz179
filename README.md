@@ -1,16 +1,14 @@
-## Hi there 👋
+### SEJA BEM VINDO AO PERFIL DO PAIVA 🧠
 
-<!--
-**vitorluiz179/vitorluiz179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor lindo
+- Sou aluno do colegio Professores
+- estou estudando no alura
+- utilizo esses espaços para guardar minhas coisas
+- Eu moro na CDT ☠️💀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu indereço de e-mail 📫
+vitor.silva.garcia@escola.pr.gov.br
+
+![](l![ronaldinho-gaucho-juggling](https://github.com/user-attachments/assets/2fac75eb-cc2c-48ed-8cb8-b9b16cc397ec)
+ink)
